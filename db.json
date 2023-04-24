@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "name": "Gladys Torp",
+      "id": 2
+    },
+    {
+      "name": "Dr. Arnold Ortiz",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Recycled Cotton Soap",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Modern Granite Ball",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Small Bronze Chair",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Plastic Sausages",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Concrete Chair",
+      "id": 15
+    },
+    {
+      "userId": 10,
+      "title": "Generic Granite Ball",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33970",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28919",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97316",
+      "id": 4
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91138",
+      "id": 6
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73676",
+      "id": 8
+    }
+  ]
+}
